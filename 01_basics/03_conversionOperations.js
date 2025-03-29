@@ -21,8 +21,32 @@
 // "" => false
 // "hitesh" => true
 
-let someNumber = 33
+//let someNumber = 33
 
-let stringNumber = string(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+//let stringNumber = string(someNumber)
+//console.log(stringNumber)
+//console.log(typeof stringNumber)
+
+// ********************** Operations **********************//
+
+
+
+//let value = 3
+//let negvalue = -value
+//console.log(negvalue)
+
+//console.log(2+2). // addition
+//console.log(2*2)  // multiplication
+//console.log(2**2) // powers
+//console.log(2/2)  // divide
+
+//let str1 = "hello"
+//let str2 = "dhruv"
+
+//let str3 = str1 + str2
+//console.log(str3);
+
+console.log("1"+2)
+console.log(1+"2")
+console.log(1+"2"+2)
+console.log(1+2+"2")
